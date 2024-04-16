@@ -23,7 +23,7 @@ header{
 }
 
 .corpo1{
-
     background-image: linear-gradient(#39642D,#87A922);
     color: white;
+    display: flex;
 }
