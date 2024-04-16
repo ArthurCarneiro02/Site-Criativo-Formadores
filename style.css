@@ -17,3 +17,13 @@ header{
     margin: 0 16px;
     font-size: 30px;
 }
+
+.dinheiro-imagem{
+    width: 80%;
+}
+
+.corpo1{
+
+    background-image: linear-gradient(#39642D,#87A922);
+    color: white;
+}
