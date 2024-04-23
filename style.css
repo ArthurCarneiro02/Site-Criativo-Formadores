@@ -49,9 +49,10 @@ footer {
 .logo {
     width: 50px; /* ajuste o tamanho conforme necessário */
     height: auto;
-    margin-right: 10px; /* espaço entre a imagem e o texto */
+    margin-right: 12px; /* espaço entre a imagem e o texto */
 }
 
-.texto {
+.textordp {
     margin: 0;
+    color: white;
 }
